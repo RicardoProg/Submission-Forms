@@ -4,12 +4,11 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Data view</title>
+<title>Insert title here</title>
 </head>
 <body>
-<form method="post" action="getdetails">
-Enter customers ID: <input type="number" name="cid"><br>
-<input type="submit" value="submit"><br>
-</form>
+<h1>Retrieve Customer details</h1>
+<h2>details submitted as follows:</h2>
+<h5>${customers}</h5>
 </body>
 </html>
